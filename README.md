@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 	<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+	<img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+	<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
+	<img src="https://img.shields.io/badge/influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white" />
+	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
+	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 </div>
