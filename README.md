@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 ## 프로젝트
 * **PFSS** : [링크](https://github.com/mooncw/PFSS)
-* **powersoh**
-* **CP1_6Team**
-* **cp2**
+* **powersoh** : [링크](https://github.com/mooncw/powersoh)
+* **CP1_6Team** : [링크](https://github.com/mooncw/CP1_6Team)
+* **cp2** : [링크](https://github.com/mooncw/cp2)
