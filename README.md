@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 나는 누구인가?
 데이터 엔지니어가 되고 싶은 문찬욱
-## 기술 스택
+## 프로젝트에 사용해본 기술 스택
 <div align="left">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
+## 프로젝트
+* **PFSS**
