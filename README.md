@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 프로젝트
-* **PFSS** : [링크](https://github.com/mooncw/PFSS)
-* **powersoh** : [링크](https://github.com/mooncw/powersoh)
-* **CP1_6Team** : [링크](https://github.com/mooncw/CP1_6Team)
-* **cp2** : [링크](https://github.com/mooncw/cp2)
+* **PFSS** : 가상의 센서 데이터를 받아 스트림 처리를 하는 파이프 라인 [링크](https://github.com/mooncw/PFSS)
+* **powersoh** : 전력설비의 역률, 전압고조파, 전류고조파 상태를 예측하는 모델링 [링크](https://github.com/mooncw/powersoh)
+* **CP1_6Team** : 행동을 파악하기 위한 키포인트 탐지 모델링과 서비스를 위한 웹 [링크](https://github.com/mooncw/CP1_6Team)
+* **cp2** : 의료 데이터를 이용한 수면 단계 예측 모델링[링크](https://github.com/mooncw/cp2)
