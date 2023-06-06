@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 나는 누구인가?
+데이터 엔지니어가 되고 싶은 문찬욱
+## 기술 스택
