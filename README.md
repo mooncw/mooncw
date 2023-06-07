@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 </div>
 
 ## 나는 누구인가?
+계속 발전하고자 하는
+성능 향상에 재미를 느끼는
 데이터 엔지니어가 되고 싶은 사람
 
 ## 프로젝트에 사용해본 기술 스택
