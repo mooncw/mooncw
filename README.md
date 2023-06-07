@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&text=Introduce)
+<div align="center">
+	
+  ![header](https://capsule-render.vercel.app/api?type=rounded&text=Introduce&height=100&fontAlignY=55)
+</div>
+
 ## 나는 누구인가?
 데이터 엔지니어가 되고 싶은 문찬욱
 ## 프로젝트에 사용해본 기술 스택
