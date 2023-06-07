@@ -17,10 +17,13 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=rounded&text=Introduce&height=100&fontAlignY=55)
 </div>
 
-## 나는 누구인가?
-계속 발전하고자 하는
-성능 향상에 재미를 느끼는
-데이터 엔지니어가 되고 싶은 사람
+<br>
+
+### 계속 발전하고자 하는
+### 성능 향상에 재미를 느끼는
+### 데이터 엔지니어가 되고 싶은 사람입니다.
+
+<br>
 
 ## 프로젝트에 사용해본 기술 스택
 <div align="left">
@@ -42,6 +45,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 </div>
+
+<br>
 
 ## 프로젝트
 * **PFSS** : 가상의 센서 데이터를 받아 스트림 처리를 하는 데이터 파이프라인 [링크](https://github.com/mooncw/PFSS)
