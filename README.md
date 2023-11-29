@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 프로젝트
+* **E2E1-Orury** : 클라이밍 커뮤니티를 위한 앱 [링크](https://github.com/mooncw/E2E1-Orury)
 * **PFSS** : 가상의 센서 데이터를 받아 스트림 처리를 하는 데이터 파이프라인 [링크](https://github.com/mooncw/PFSS)
 * **healthweb** : keypoint detection 모델을 이용한 운동 카운트 Django 웹 애플리케이션 [링크](https://github.com/mooncw/healthweb)
 * **powersoh** : 전력설비의 역률, 전압고조파, 전류고조파 상태를 예측하는 모델링 [링크](https://github.com/mooncw/powersoh)
