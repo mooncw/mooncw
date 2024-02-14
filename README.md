@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/flyway-CC0200?style=flat&logo=flyway&logoColor=white"/>
 	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 	<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 </div>
 
 <br>
