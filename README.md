@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ## 프로젝트
 * **KernelSquare** : 지속가능한 성장을 위한 개발자 커뮤니티 [링크](https://github.com/mooncw/f1-KernelSquare-backend)
 * **Orury** : 클라이밍 커뮤니티를 위한 앱 [링크](https://github.com/mooncw/E2E1-Orury)
-* **PFSS** : 가상의 센서 데이터를 받아 스트림 처리를 하는 데이터 파이프라인 [링크](https://github.com/mooncw/PFSS)
+* **PFSS** : 전력 설비 실시간 상태 모니터링 [링크](https://github.com/mooncw/PFSS)
 * **healthweb** : keypoint detection 모델을 이용한 운동 카운트 Django 웹 애플리케이션 [링크](https://github.com/mooncw/healthweb)
 * **powersoh** : 전력설비의 역률, 전압고조파, 전류고조파 상태를 예측하는 모델링 [링크](https://github.com/mooncw/powersoh)
 * **CP1_6Team** : 행동을 파악하기 위한 키포인트 탐지 모델링과 서비스를 위한 웹 [링크](https://github.com/mooncw/CP1_6Team)
