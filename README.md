@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 * **Orury** : 클라이밍 커뮤니티를 위한 앱 [링크](https://github.com/mooncw/E2E1-Orury)
 * **PFSS** : 전력 설비 실시간 상태 모니터링 [링크](https://github.com/mooncw/PFSS)
 * **healthweb** : keypoint detection 모델을 이용한 운동 카운트 Django 웹 애플리케이션 [링크](https://github.com/mooncw/healthweb)
-* **powersoh** : 전력설비의 역률, 전압고조파, 전류고조파 상태를 예측하는 모델링 [링크](https://github.com/mooncw/powersoh)
+* **powersoh** : 전력설비의 효율을 높이기 위한 이상탐지 모델 [링크](https://github.com/mooncw/powersoh)
 * **CP1_6Team** : 행동을 파악하기 위한 키포인트 탐지 모델링과 서비스를 위한 웹 [링크](https://github.com/mooncw/CP1_6Team)
 * **cp2** : 의료 데이터를 이용한 수면 단계 예측 모델링 [링크](https://github.com/mooncw/cp2)
