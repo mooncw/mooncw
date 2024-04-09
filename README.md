@@ -25,38 +25,51 @@ Here are some ideas to get you started:
 
 <br>
 
-## 프로젝트에 사용해본 기술 스택
+## 기술 스택
+#### 언어
 <div align="left">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
-	<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
-	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
-	<img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-	<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
-	<img src="https://img.shields.io/badge/influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white" />
-	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
-	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
-	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 	<img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk&logoColor=white"/>
+</div>
+
+#### 웹 앱 프레임워크
+<div align="left">
+	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+</div>
+
+#### 데이터
+<div align="left">
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
-	<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-	<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 	<img src="https://img.shields.io/badge/flyway-CC0200?style=flat&logo=flyway&logoColor=white"/>
 	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
-	<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+	<img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+	<img src="https://img.shields.io/badge/apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+	<img src="https://img.shields.io/badge/influxdb-22ADF6?style=flat&logo=influxdb&logoColor=white" />
+</div>
+
+#### 클라우드
+<div align="left">
+	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </div>
 
+#### 모니터링
+<div align="left">
+	<img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+</div>
+
+#### 머신러닝
+<div align="left">
+	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+</div>
+
+#### CI/CD
+<div align="left">
+	<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+</div>
 <br>
 
 ## 프로젝트
